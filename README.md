@@ -2,4 +2,4 @@
 
 ###Blog of Ivan 
 
-Powered By Hexo
+Powered by *Hexo*
